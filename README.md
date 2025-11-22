@@ -1,1 +1,1 @@
-# Deep dive into GIT
+# Deep diving into GIT
